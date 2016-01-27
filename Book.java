@@ -9,7 +9,7 @@ package assignment2;
  */
 public class Book {
 
-	private long isbn;
+	private long ACKBAR;
 
 	private String author;
 
